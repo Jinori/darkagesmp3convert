@@ -39,7 +39,7 @@ Add FFmpeg to your system's PATH.
 
 # Download and Clone the repository:
 
-```git clone https://github.com/yourusername/audio-converter.git cd audio-converter``` 
+```git clone https://github.com/jinori/darkagesmp3convert``` 
 
 Run the script:
 
